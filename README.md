@@ -1,21 +1,23 @@
-# 👋 Hi, I'm Davi Vinicius
+# <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Davi+Vinicius;Software+Engineering+Student;Future+Software+Engineer" />
 
 <table>
 <tr>
 <td width="35%">
 
-<img src="https://avatars.githubusercontent.com/u/0?v=4" width="180"/>
+<img src="https://github.com/davi1710231.png" width="180"/>
 
 ### 📍 Information
 
 🎓 **PUC Minas**
+
 📍 **Belo Horizonte - MG**
+
 ⏰ **Brazil (GMT -3)**
 
-📧 **Email:**
+📧 **Email**
 [davivinicius1710@gmail.com](mailto:davivinicius1710@gmail.com)
 
-💻 **GitHub:**
+💻 **GitHub**
 https://github.com/davi1710231
 
 </td>
@@ -26,11 +28,11 @@ https://github.com/davi1710231
 
 Olá! Meu nome é **Davi Vinicius Barbosa de Oliveira** e sou estudante de **Engenharia de Software na PUC Minas**.
 
-Tenho grande interesse na área de **desenvolvimento de software**, principalmente no desenvolvimento **backend**.
+Tenho grande interesse em **desenvolvimento de software**, principalmente na área de **backend**.
 
-Atualmente estou focado em evoluir minhas habilidades em programação, construção de sistemas e boas práticas de engenharia de software.
+Atualmente estou focado em desenvolver minhas habilidades em programação e construção de sistemas, buscando sempre aplicar boas práticas de engenharia de software.
 
-Meu objetivo é conquistar minha primeira oportunidade profissional na área de tecnologia e continuar evoluindo como desenvolvedor.
+Meu objetivo é conquistar minha **primeira oportunidade na área de tecnologia** e evoluir constantemente como desenvolvedor.
 
 ---
 
@@ -64,3 +66,9 @@ Meu objetivo é conquistar minha primeira oportunidade profissional na área de 
 </td>
 </tr>
 </table>
+
+---
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/davi1710231/davi1710231/blob/output/github-contribution-grid-snake.svg)
