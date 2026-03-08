@@ -123,3 +123,20 @@ Meu objetivo é conquistar minha **primeira oportunidade profissional na área d
 
 ---
 
+## 📫 Contact
+
+<p align="center">
+
+<a href="mailto:davivinicius1710@gmail.com">
+<img src="https://img.shields.io/badge/Email-davivinicius1710%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/davi-vinicius">
+<img src="https://img.shields.io/badge/LinkedIn-Davi%20Vinicius-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/davi1710231">
+<img src="https://img.shields.io/badge/GitHub-davi1710231-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
